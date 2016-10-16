@@ -9,3 +9,14 @@ C:\MyFiles\CodeProjectAngularJS\AngularJSApplicationService\obj\Debug\AngularJSA
 C:\MyFiles\CodeProjectAngularJS\AngularJSApplicationService\obj\Debug\AngularJSApplicationService.pdb
 C:\MyFiles\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSUtilities.dll
 C:\MyFiles\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSUtilities.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSApplicationService.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSApplicationService.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSDataModels.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSDataServiceInterface.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSUtilities.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSDataModels.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSDataServiceInterface.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\bin\Debug\AngularJSUtilities.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\obj\Debug\AngularJSApplicationService.csprojResolveAssemblyReference.cache
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\obj\Debug\AngularJSApplicationService.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSApplicationService\obj\Debug\AngularJSApplicationService.pdb

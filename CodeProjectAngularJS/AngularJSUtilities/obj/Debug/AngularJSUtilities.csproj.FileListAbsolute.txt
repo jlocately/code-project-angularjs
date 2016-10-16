@@ -3,3 +3,8 @@ C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.
 C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
 C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
 C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+D:\_PROJETOS\_Github\code-project-angularjs\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
